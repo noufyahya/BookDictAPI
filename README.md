@@ -4,7 +4,7 @@ Using Postman, I viewed the Books using the regular localhost link with ":27017/
 <img width="700px" src="https://user-images.githubusercontent.com/38424188/89810288-e1792880-db4d-11ea-81ef-27a0c3557697.png"/>
 
 
-you can also **Update** or **Delete** a specific book using the **_id_** of that book and the command **PATCH**
+I have also **Update** or **Delete** a specific book using the **_id_** of that book and the command **PATCH**
 
 Here I **_updated_** the first book by adding a dot the end ::
 
