@@ -1,10 +1,10 @@
 # Book Dictionry API
-Using Postman, I viewed the Books using the regular localhost link with ":27017/books" as the path
+**Using nodejs & express and with the help of postman for viewing results, I made an api to view books from a json file,I viewed the Books using the regular localhost link with ":27017/books" as the path**
 
 <img width="700px" src="https://user-images.githubusercontent.com/38424188/89810288-e1792880-db4d-11ea-81ef-27a0c3557697.png"/>
 
 
-I have also **Update** or **Delete** a specific book using the **_id_** of that book and the command **PATCH**
+I was able to **Update** or **Delete** a specific book using the **_id_** of that book and the command **PATCH**
 
 Here I **_updated_** the first book by adding a dot the end ::
 
